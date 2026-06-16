@@ -1,0 +1,10 @@
+[theme]
+primaryColor = "#2563eb"          # Tailwind blue-600
+backgroundColor = "#ffffff"
+secondaryBackgroundColor = "#f5f7fa"
+textColor = "#1f2937"              # Gray-800
+font = "sans serif"
+
+[client]
+# 隐藏多页应用在侧边栏顶部的默认英文页面选择器（如 Main / Asset Overview / Allocation）
+showSidebarNavigation = false
