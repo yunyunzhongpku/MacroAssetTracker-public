@@ -6,7 +6,7 @@
 
 ## 在线访问
 
-部署于 Streamlit Community Cloud：`https://<部署后填入>.streamlit.app`
+部署于 Streamlit Community Cloud：https://macroassettracker-public-6gmtj9uqqwkm8c26rguodo.streamlit.app
 
 ## 功能
 
